@@ -1,0 +1,13 @@
+APP_NAME: stackloot
+APP_ENV: development
+
+
+DATABASE:
+  TYPE: postgres
+  HOST: localhost
+  PORT: 5432
+  USER: yourusername
+  PASSWORD: yourpassword
+  DBNAME: yourdbname
+
+
