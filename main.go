@@ -1,7 +1,7 @@
 package main
 
 import (
-	"template/config"
+	"OxTr0/config"
 
 	"github.com/JalaninID/workspaces/clients"
 	"github.com/JalaninID/workspaces/users"

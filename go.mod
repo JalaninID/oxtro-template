@@ -1,4 +1,4 @@
-module template
+module OxTr0
 
 go 1.22.2
 
